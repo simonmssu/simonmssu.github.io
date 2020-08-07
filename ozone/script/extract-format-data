@@ -1,0 +1,2 @@
+ncks -a -d time,776,816 atmos.2010020100-2010053123.O3.nc atmos.2010050900-2010051323.O3.nc
+ncatted -h -a modeling_realm,global,a,c,atmos atmos.2010050900-2010051323.O3.nc
